@@ -1,0 +1,33 @@
+﻿  render.cpp
+f:\source codes\external-overlay-base-w-working-imgui-impl-master\external overlay base with imgui - dream666\external overlay base imgui\rbx.h(68): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+f:\source codes\external-overlay-base-w-working-imgui-impl-master\external overlay base with imgui - dream666\external overlay base imgui\rbx.h(261): warning C4101: 'selfoffset': unreferenced local variable
+f:\source codes\external-overlay-base-w-working-imgui-impl-master\external overlay base with imgui - dream666\external overlay base imgui\rbx.h(803): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+f:\source codes\external-overlay-base-w-working-imgui-impl-master\external overlay base with imgui - dream666\external overlay base imgui\rbx.h(804): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+f:\source codes\external-overlay-base-w-working-imgui-impl-master\external overlay base with imgui - dream666\external overlay base imgui\rbx.h(844): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+f:\source codes\external-overlay-base-w-working-imgui-impl-master\external overlay base with imgui - dream666\external overlay base imgui\rbx.h(845): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+f:\source codes\external-overlay-base-w-working-imgui-impl-master\external overlay base with imgui - dream666\external overlay base imgui\rbx.h(958): warning C4244: '=': conversion from 'FLOAT' to 'int', possible loss of data
+f:\source codes\external-overlay-base-w-working-imgui-impl-master\external overlay base with imgui - dream666\external overlay base imgui\rbx.h(959): warning C4244: '=': conversion from 'FLOAT' to 'int', possible loss of data
+f:\source codes\external-overlay-base-w-working-imgui-impl-master\external overlay base with imgui - dream666\external overlay base imgui\rbx.h(992): warning C4244: '=': conversion from 'FLOAT' to 'int', possible loss of data
+f:\source codes\external-overlay-base-w-working-imgui-impl-master\external overlay base with imgui - dream666\external overlay base imgui\rbx.h(993): warning C4244: '=': conversion from 'FLOAT' to 'int', possible loss of data
+f:\source codes\external-overlay-base-w-working-imgui-impl-master\external overlay base with imgui - dream666\external overlay base imgui\rbx.h(1005): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\source codes\external-overlay-base-w-working-imgui-impl-master\external overlay base with imgui - dream666\external overlay base imgui\rbx.h(1061): warning C4244: '=': conversion from 'FLOAT' to 'int', possible loss of data
+f:\source codes\external-overlay-base-w-working-imgui-impl-master\external overlay base with imgui - dream666\external overlay base imgui\rbx.h(1062): warning C4244: '=': conversion from 'FLOAT' to 'int', possible loss of data
+f:\source codes\external-overlay-base-w-working-imgui-impl-master\external overlay base with imgui - dream666\external overlay base imgui\rbx.h(1094): warning C4244: '=': conversion from 'FLOAT' to 'int', possible loss of data
+f:\source codes\external-overlay-base-w-working-imgui-impl-master\external overlay base with imgui - dream666\external overlay base imgui\rbx.h(1095): warning C4244: '=': conversion from 'FLOAT' to 'int', possible loss of data
+f:\source codes\external-overlay-base-w-working-imgui-impl-master\external overlay base with imgui - dream666\external overlay base imgui\rbx.h(1108): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\source codes\external-overlay-base-w-working-imgui-impl-master\external overlay base with imgui - dream666\external overlay base imgui\render.cpp(84): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+f:\source codes\external-overlay-base-w-working-imgui-impl-master\external overlay base with imgui - dream666\external overlay base imgui\render.cpp(93): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+f:\source codes\external-overlay-base-w-working-imgui-impl-master\external overlay base with imgui - dream666\external overlay base imgui\render.cpp(94): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+f:\source codes\external-overlay-base-w-working-imgui-impl-master\external overlay base with imgui - dream666\external overlay base imgui\render.cpp(95): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+f:\source codes\external-overlay-base-w-working-imgui-impl-master\external overlay base with imgui - dream666\external overlay base imgui\render.cpp(96): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+f:\source codes\external-overlay-base-w-working-imgui-impl-master\external overlay base with imgui - dream666\external overlay base imgui\render.cpp(150): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+f:\source codes\external-overlay-base-w-working-imgui-impl-master\external overlay base with imgui - dream666\external overlay base imgui\render.cpp(159): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+f:\source codes\external-overlay-base-w-working-imgui-impl-master\external overlay base with imgui - dream666\external overlay base imgui\render.cpp(160): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+f:\source codes\external-overlay-base-w-working-imgui-impl-master\external overlay base with imgui - dream666\external overlay base imgui\render.cpp(161): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+f:\source codes\external-overlay-base-w-working-imgui-impl-master\external overlay base with imgui - dream666\external overlay base imgui\render.cpp(162): warning C4244: '=': conversion from 'FLOAT' to 'LONG', possible loss of data
+  Generating code
+  3 of 1137 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  External Overlay Base ImGui.vcxproj -> F:\Source Codes\External-Overlay-Base-w-Working-ImGui-Impl-master\External Overlay Base with ImGui - DREAM666\Release\Dreamer.exe

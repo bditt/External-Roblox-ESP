@@ -1,0 +1,19 @@
+﻿  cheat.cpp
+f:\source codes\aspect\aspect\cheat.cpp(1): fatal error C1083: Cannot open include file: 'cheat.h': No such file or directory
+  direct3d.cpp
+f:\source codes\aspect\aspect\direct3d.cpp(1): fatal error C1083: Cannot open include file: 'direct3d.h': No such file or directory
+  entry.cpp
+f:\source codes\aspect\aspect\entry.cpp(1): fatal error C1083: Cannot open include file: 'entry.h': No such file or directory
+  globals.cpp
+f:\source codes\aspect\aspect\globals.cpp(1): fatal error C1083: Cannot open include file: 'globals.h': No such file or directory
+  imgui.cpp
+f:\source codes\aspect\aspect\imgui.cpp(8054): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx9.cpp
+f:\source codes\aspect\aspect\imgui_impl_dx9.cpp(9): fatal error C1083: Cannot open include file: 'imgui.h': No such file or directory
+  main.cpp
+f:\source codes\aspect\aspect\main.cpp(1): fatal error C1083: Cannot open include file: 'main.h': No such file or directory
+  render.cpp
+f:\source codes\aspect\aspect\render.cpp(1): fatal error C1083: Cannot open include file: 'render.h': No such file or directory
+  Generating Code...
