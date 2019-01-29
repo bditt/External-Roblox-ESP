@@ -3,8 +3,9 @@ This is an external ESP for Roblox. It was made while I was learning to reverse 
 
 
 Constains:
-[X] Toggleable GUI.
-[X] Resizing Overlay.
-[X] Box ESP.
-[X] Name ESP.
-[X] Terrible Code.
+- [X] Toggleable GUI.
+- [X] Resizing Overlay.
+- [X] Memory Reading Class.
+- [X] Box ESP.
+- [X] Name ESP.
+- [X] Terrible Code.
